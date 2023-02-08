@@ -49,5 +49,9 @@
       <key>capability</key>
       <value>capabilities</value>
     </item>
+    <item>
+      <key>ATD</key>
+      <value>ATDs</value>
+    </item>
   </map>
 </codeSmith>
